@@ -1,2 +1,2 @@
 # wepayuprotopaper
-A protopaper of the wepayu algorithm for my algorithm class.
+A protopaper of the wepayu algorithm for my algorithms class.
